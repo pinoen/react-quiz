@@ -10,7 +10,7 @@
 - Simple app which consists of a React quiz.
 - We built the application front-end and use a fake API (JSON server library) where to fetch the data from.
 - It was built with React using Create React App.
-- You can try it out at [Vercel - React Quiz](https://pop-corn-movies.vercel.app/)
+- You can try it out at [Netlify - React Quiz](https://the-react-quiz.netlify.app/)
 
 ### Built With
 - useReducer
